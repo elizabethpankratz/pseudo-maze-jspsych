@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: >-
-  The pseudo-maze task for statistical learning: A plugin for jsPsych 7
+  The pseudo-maze task for statistical learning: Code for jsPsych 7
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
